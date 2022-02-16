@@ -12,7 +12,7 @@ Some silly mistakes I made today include plugging the HDMI cable for the Raspber
 
 
 ## Pictures
-![](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log/blob/master/images/IMG_1.jpeg)
+![image](https://github.com/angelina-tsuboi/IAQ_Device_Dev_Log/blob/master/images/IMG_1.jpeg?raw=true)
 
 ## Next Steps
 
