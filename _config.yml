@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: angelina.t1832@gmail.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: angelina-tsuboi/IAQ_Device_Dev_Log
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss: 
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -48,8 +48,8 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: https://angelina-tsuboi.github.io/IAQ_Device_Dev_Log/
+enforce_ssl: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -90,7 +90,7 @@ plugins:
 include: ['_pages']
 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: https://angelina-tsuboi.github.io/IAQ_Device_Dev_Log/page:num/
 
 # Exclude these files from your production _site
 exclude:
