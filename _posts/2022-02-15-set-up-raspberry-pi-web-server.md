@@ -8,28 +8,15 @@ Today I configured the Raspberry Pi on a spare monitor I found in my house, SSH 
 
 ## Troubleshooting
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Some silly mistakes I made today include plugging the HDMI cable for the Raspberry Pi display into a incompatible monitor and forgetting the password for my Raspberry Pi. I reset the password for my Pi using a ```passwd``` command. Moreover, I had trouble setting up a Node.js server due to version complications, so I ended up using Flask instead.
 
 
-## Web Server Code
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+## Pictures
+![](/images/IMG_1.jpeg)
 
 ## Next Steps
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+In my next tinkering session, I plan to fix the GPIO inputs and start getting inputs from sensors. After that, I will start making the API to connect the device input to the database, do more research on components, and start designing the case / schematic. 
 
 Cheers!
 Angelina
