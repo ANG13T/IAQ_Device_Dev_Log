@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing a 3D Case Design
+title: Creating a 3D Case Design
 categories: Design
 ---
 
